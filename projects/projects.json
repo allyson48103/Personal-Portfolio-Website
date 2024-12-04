@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Athletic Website",
+    "desc": "Built from scratch with adaptive light/dark mode functionality.",
+    "image": "athleticwebsite",
+    "category": "webdev",
+    "links": {
+      "view": "https://allyson48103.github.io/SI_339_Client_Project_Deliverable4/meet1.html",
+      "code": "https://github.com/allyson48103/SI_339_Client_Project_Deliverable4"
+    }
+  },
+  {
+    "name": "Interactive Asteroids Game Site",
+    "desc": "Created an interactive game with HTML, CSS, and JavaScript.",
+    "image": "asteroidsgame",
+    "category": "webgame",
+    "links": {
+      "view": "https://allyson48103.github.io/Asteroids_Game/",
+      "code": "https://github.com/allyson48103/Asteroids_Game"
+    }
+  },
+  {
+    "name": "Silly 'Do You Love Me' Website",
+    "desc": "Interactive, mobile and desktop-friendly website where you can't click on the 'no' button.",
+    "image": "lovemewebsite",
+    "category": "funproject",
+    "links": {
+      "view": "https://allyson48103.github.io/Do-You-Love-Me/",
+      "code": "https://github.com/allyson48103/Do-You-Love-Me" 
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Created using HTML, CSS, and JavaScript (jQuery), learned lots of interactive CSS.",
+    "image": "portfolio",
+    "category": "portfolio",
+    "links": {
+      "view": "#", 
+      "code": "#" 
+    }
+  },
+  {
+    "name": "Cat Dealer Foresight Website",
+    "desc": "Designed wireframes and homepage layouts from scratch in Figma during my summer internship at Caterpillar Inc., which are actively being used for future implementations.",
+    "image": "catdealer",
+    "category": "design",
+    "links": {
+      "view": "https://www.figma.com/design/LiEnA7BiP3at1jFmE04Pjg/Cat-Dealer-Foresight-Website?node-id=1-95&node-type=canvas&t=HvvMqt33zw8hTV9z-0", 
+      "code": "#" 
+    }
+  },
+  {
+    "name": "Personal Art Website",
+    "desc": "Designed an art portfolio website to showcase my artwork (could improve the design).",
+    "image": "artwebsite",
+    "category": "portfolio",
+    "links": {
+      "view": "https://allyson48103.wixsite.com/website",
+      "code": "#" 
+    }
+  }
+]
