@@ -125,7 +125,7 @@ header .navbar ul li a {
 }
 header .navbar ul li a.active,
 header .navbar ul li a:hover {
-  color: var(--light-purple-color);
+  color: #54499C; /* pass color contrast for navbar */
   border-bottom: 0.2rem solid var(--light-purple-color);
   padding: 0.5rem 0;
 }
