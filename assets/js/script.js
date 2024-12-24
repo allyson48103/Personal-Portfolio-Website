@@ -109,7 +109,7 @@ function showSkills(skills) {
         const projectsContainer = $("#work .box-container");
         projectsContainer.html(projects.filter(project => project.category !== "android").map(project => `
             <div class="box tilt">
-            <img draggable="false" src="/assets/images/projects/${project.image}.png" alt="${project.name}" />
+                <img draggable="false" src="/assets/images/projects/${project.image}.png" alt="project" />
                 <div class="content">
                     <div class="tag">
                         <h3>${project.name}</h3>
